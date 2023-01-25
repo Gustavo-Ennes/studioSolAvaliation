@@ -20,5 +20,5 @@ app.use(
     graphiql: true,
   })
 );
-app.listen(4000);
-console.log("Running Studio Sol avaliation at http://localhost:4000/graphql");
+app.listen(8080);
+console.log("Running Studio Sol avaliation at http://localhost:8080/graphql");

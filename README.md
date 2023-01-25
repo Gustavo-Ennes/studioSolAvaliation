@@ -49,7 +49,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 This app contains a lot of unitary tests that cover a lot of possibilities of input.
 The app is about password validation, where the query receives a password string and an array of rules to apply to it, return an object with verify(bool) and noMatch(failed rules name).
-Queries like described in [this doc](https://akamai.sscdn.co/gcs/studiosol/2022/backend/prova.pdf) can be made to `localhost:4000/graphql` after server starts.
+Queries like described in [this doc](https://akamai.sscdn.co/gcs/studiosol/2022/backend/prova.pdf) can be made to `localhost:8080/graphql` after server starts.
 
 ## Author
 
